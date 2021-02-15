@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce_mern",
+  "version": "1.0.0",
+  "description": "Mern ecommerce website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Vinay Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
